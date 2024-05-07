@@ -23,8 +23,7 @@ suppressPackageStartupMessages({
 ```
 
 ## Data source and Attribute
-
-<a href="http://archive.ics.uci.edu/ml/datasets/Heart+Disease" id="url">http://archive.ics.uci.edu/ml/datasets/Heart+Disease</a>
+[Data Source](http://archive.ics.uci.edu/ml/datasets/Heart+Disease).
 
 1.  Age (age)
 2.  Sex (sex)
