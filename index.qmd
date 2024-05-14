@@ -24,7 +24,6 @@ suppressPackageStartupMessages({
 
 ## Data source and Attribute
 
-[Data source and Attribute](http://archive.ics.uci.edu/ml/datasets/Heart+Disease)
 
 1.  Age (age)
 
